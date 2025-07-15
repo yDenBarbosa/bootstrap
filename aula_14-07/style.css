@@ -1,0 +1,11 @@
+.row{
+    height: 200px;
+    background-color: lightblue;
+}
+
+.col-3{
+    background-color: yellow;
+    padding: 20px;
+    border: 1px solid #000;
+}
+
